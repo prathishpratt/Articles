@@ -10,3 +10,14 @@ An open repo for interesting articles and blogs [I DON'T own the content, I just
 |                                                  |                                                                                              |
 |                                                  |                                                                                              |
 |                                                  |                                                                                              |
+
+
+<br>
+
+## Non-Technical 
+
+| Be Clutch, Don’t Choke: Thrive in High-Pressure Situations | https://www.artofmanliness.com/character/behavior/be-clutch-dont-choke-how-to-thrive-in-high-pressure-situations-part-i/ |
+|--------------------------------------------------|----------------------------------------------------------------------------------------------|
+|                                                  |                                                                                              |
+|                                                  |                                                                                              |
+|                                                  |                                                                                              |
