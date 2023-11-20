@@ -5,19 +5,18 @@ An open repo for interesting articles and blogs [I DON'T own the content, I just
 
 ## Technical 
 
-| How to Convert Any Text Into a Graph of Concepts | https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a |
+| TOPIC                                            | LINK                                                                                         |
 |--------------------------------------------------|----------------------------------------------------------------------------------------------|
-|                                                  |                                                                                              |
+| How to Convert Any Text Into a Graph of Concepts | https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a |
+| Build an LLM app using Langchain                 | https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac |
 |                                                  |                                                                                              |
 |                                                  |                                                                                              |
 
-
-<br>
 
 ## Non-Technical 
 
-| Be Clutch, Don’t Choke: Thrive in High-Pressure Situations | https://www.artofmanliness.com/character/behavior/be-clutch-dont-choke-how-to-thrive-in-high-pressure-situations-part-i/ |
-|--------------------------------------------------|----------------------------------------------------------------------------------------------|
-|                                                  |                                                                                              |
-|                                                  |                                                                                              |
-|                                                  |                                                                                              |
+| TOPIC                                                      | LINK                                                                                                                     |   |   |   |
+|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---|---|---|
+| Be Clutch, Don’t Choke: Thrive in High-Pressure Situations | https://www.artofmanliness.com/character/behavior/be-clutch-dont-choke-how-to-thrive-in-high-pressure-situations-part-i/ |   |   |   |
+|                                                            |                                                                                                                          |   |   |   |
+|                                                            |                                                                                                                          |   |   |   |
