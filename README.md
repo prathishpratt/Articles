@@ -11,6 +11,7 @@ An open repo for interesting articles and blogs [I DON'T own the content, I just
 | Build an LLM app using Langchain                 | https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac |
 | Keeping up with AGI Literature                   | https://shorturl.at/kosK3                                                                    |
 | SVD Visualized [VIDEO]                           | https://www.youtube.com/watch?v=vSczTbgc8Rc                                                  |
+| Conditioning is grouping by                      | https://www.alexmolas.com/2023/11/30/conditioning-is-grouping-by.html                        |
 
 
 ## Non-Technical 
