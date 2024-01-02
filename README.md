@@ -13,7 +13,7 @@ An open repo for interesting articles and blogs [I DON'T own the content, I just
 | SVD Visualized [VIDEO]                           | https://www.youtube.com/watch?v=vSczTbgc8Rc                                                  |
 | Conditioning is grouping by                      | https://www.alexmolas.com/2023/11/30/conditioning-is-grouping-by.html                        |
 | History of NLP                                   | https://www.ruder.io/a-review-of-the-recent-history-of-nlp/                                  | 
-
+| Starting with fine-tuning LLMs with custom data  | https://shorturl.at/ozCKS                                                                    | 
 
 ## Non-Technical 
 
