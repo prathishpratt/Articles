@@ -14,6 +14,7 @@ An open repo for interesting articles and blogs [I DON'T own the content, I just
 | Conditioning is grouping by                      | https://www.alexmolas.com/2023/11/30/conditioning-is-grouping-by.html                        |
 | History of NLP                                   | https://www.ruder.io/a-review-of-the-recent-history-of-nlp/                                  | 
 | Starting with fine-tuning LLMs with custom data  | https://shorturl.at/ozCKS                                                                    | 
+| Local LLM fine-tuning on a Mac with MLX          | https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/      |
 
 ## Non-Technical 
 
