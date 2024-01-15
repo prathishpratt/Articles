@@ -23,3 +23,12 @@ An open repo for interesting articles and blogs [I DON'T own the content, I just
 | Be Clutch, Don’t Choke: Thrive in High-Pressure Situations | https://www.artofmanliness.com/character/behavior/be-clutch-dont-choke-how-to-thrive-in-high-pressure-situations-part-i/ | 
 | Agent Orange and Naplam                                    | https://www.youtube.com/watch?v=uzvTB0mOS0w                                                                              |   
 |                                                            |                                                                                                                          | 
+
+## Papers
+
+| PAPER                     | LINKS                                                                                           |
+|---------------------------|-------------------------------------------------------------------------------------------------|
+| Attention Is All You Need | https://github.com/prathishpratt/Articles/blob/main/Paper/Attention%20Is%20All%20You%20Need.pdf |
+|                           |                                                                                                 |
+|                           |                                                                                                 |
+|                           |                                                                                                 |
