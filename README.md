@@ -15,6 +15,7 @@ An open repo for interesting articles and blogs [I DON'T own the content, I just
 | History of NLP                                   | https://www.ruder.io/a-review-of-the-recent-history-of-nlp/                                  | 
 | Starting with fine-tuning LLMs with custom data  | https://shorturl.at/ozCKS                                                                    | 
 | Local LLM fine-tuning on a Mac with MLX          | https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/      |
+| [Karpathy] [V-GOOD]  Unreasonable Effectiveness of RNN    | https://karpathy.github.io/2015/05/21/rnn-effectiveness/                                     |
 
 ## Non-Technical 
 
