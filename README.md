@@ -1,5 +1,6 @@
 # Articles
-An open repo for interesting articles and blogs [I DON'T own the content, I just curate it]
+An open repo for interesting articles and blogs. <br>
+[ I DON'T own the content, I just curate it ]
 
 
 
