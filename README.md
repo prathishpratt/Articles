@@ -25,11 +25,4 @@ An open repo for interesting articles and blogs [I DON'T own the content, I just
 | Agent Orange and Naplam                                    | https://www.youtube.com/watch?v=uzvTB0mOS0w                                                                              |   
 |                                                            |                                                                                                                          | 
 
-## Papers
-
-| PAPER                     | LINKS                                                                                           |
-|---------------------------|-------------------------------------------------------------------------------------------------|
-| Attention Is All You Need | https://github.com/prathishpratt/Articles/blob/main/Paper/Attention%20Is%20All%20You%20Need.pdf |
-|                           |                                                                                                 |
-|                           |                                                                                                 |
-|                           |                                                                                                 |
+## For Research Papers, click [Here](https://github.com/prathishpratt/Articles/tree/main/Paper)
