@@ -26,6 +26,6 @@ An open repo for interesting articles and blogs. <br>
 |------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | Be Clutch, Don’t Choke: Thrive in High-Pressure Situations | https://www.artofmanliness.com/character/behavior/be-clutch-dont-choke-how-to-thrive-in-high-pressure-situations-part-i/ | 
 | Agent Orange and Naplam                                    | https://www.youtube.com/watch?v=uzvTB0mOS0w                                                                              |   
-|                                                            |                                                                                                                          | 
+| Sanjay Ghemawat:   The Friendship That Made Google Huge    | https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge                                      | 
 
 ## For Research Papers, click [Here](https://github.com/prathishpratt/Articles/tree/main/Paper)
