@@ -20,6 +20,7 @@ An open repo for interesting articles and blogs. <br>
 | Mechanics of Seq2seq Models With Attention [V-GOOD]    |  https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/ |
 | How a Transformer works at inference vs training time  | https://www.youtube.com/watch?v=IGu7ivuy1Ag |
 | The Annotated LLaMA - Everything about Llama | https://medium.com/@nishantbhansali80/the-annotated-llama-fa183943b34b  |
+| Fine-tune Llama 2 with LoRA for Question Answering | https://deci.ai/blog/fine-tune-llama-2-with-lora-for-question-answering/ |
 
 ## Non-Technical 
 
