@@ -22,6 +22,8 @@ An open repo for interesting articles and blogs. <br>
 | The Annotated LLaMA - Everything about Llama | https://medium.com/@nishantbhansali80/the-annotated-llama-fa183943b34b  |
 | Fine-tune Llama 2 with LoRA for Question Answering | https://deci.ai/blog/fine-tune-llama-2-with-lora-for-question-answering/ |
 | A nice explanation of K-NN | https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/ |
+| Word2Vec | https://aegis4048.github.io/demystifying_neural_network_in_skip_gram_language_modeling  |
+| Word2Vec Implementation| https://jaketae.github.io/study/word2vec/  |
 
 
 ## Non-Technical 
