@@ -34,5 +34,6 @@ An open repo for interesting articles and blogs. <br>
 | Agent Orange and Naplam                                    | https://www.youtube.com/watch?v=uzvTB0mOS0w                                                                              |   
 | Sanjay Ghemawat:   The Friendship That Made Google Huge    | https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge                                      | 
 | Interviewing more than 300 Data Scientists | https://medium.com/@martinleitner_33020/what-ive-learned-from-interviewing-more-than-300-data-scientists-dc5426a6df9d |
+| Inside Cursor (V good article for company culture) | https://joincolossus.com/article/inside-cursor/ |
 
 ## For Research Papers, click [Here](https://github.com/prathishpratt/Articles/tree/main/Paper)
